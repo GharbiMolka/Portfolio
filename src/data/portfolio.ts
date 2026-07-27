@@ -171,7 +171,7 @@ export const portfolioData: PortfolioData = {
       technologies: ["SSMS", "Talend", "Power BI", "Python"],
       githubUrl: "https://github.com/GharbiMolka/Stage-Ingenieur",
       liveUrl: "https://synctask.vercel.app",
-      imageUrl: "/images/Bank.png",
+      imageUrl: "/images/stage.png",
       featured: false
     },
     {
