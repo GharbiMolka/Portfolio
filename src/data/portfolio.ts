@@ -171,7 +171,7 @@ export const portfolioData: PortfolioData = {
       technologies: ["SSMS", "Talend", "Power BI", "Python"],
       githubUrl: "https://github.com/GharbiMolka/Stage-Ingenieur",
       liveUrl: "https://synctask.vercel.app",
-      imageUrl: "/images/bank.png",
+      imageUrl: "/images/Bank.png",
       featured: false
     },
     {
@@ -204,7 +204,7 @@ export const portfolioData: PortfolioData = {
       technologies: [ "ACP", "K-Means", "DBSCAN", "SVM", "Random Forest", "XGBoost" , "FastAPI"],
       githubUrl: "https://github.com/GharbiMolka/Student-Mental-Health",
       liveUrl: "https://zenith-commerce.vercel.app",
-      imageUrl: "/images/machine.png",
+      imageUrl: "/images/student.png",
       featured: false
     },
     {
